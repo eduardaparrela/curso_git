@@ -1,12 +1,8 @@
-package main
+package main 
 
-import org.openqa.selenium.WebDriver;
+import "fmt"
 
-
-public class DriversFactory 
-
-{ 
-	System.out.println ("Hello World"); 
-
+func main () {
+     fmt.Println("Hello, World!")    
 
 }
